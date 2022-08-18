@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+h1 {
+  font-family: "Noto Serif", serif;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.btn {
+  font-size: 0.9rem;
+  background-color: #007c89;
+  border-color: #007c89 !important;
+  color: white;
+  border-width: 2px;
+  border-radius: 0;
+  font-weight: 500;
+  min-width: 110px;
+  padding: 0.6rem 0.9rem;
+}
+.btn:hover {
+  background-color: #00636e;
+  border-color: #00636e !important;
+  color: white;
+}
+
+.btn-outline-black {
+  border-color: #000 !important;
+  color: #000;
+  background-color: transparent;
+}
+.btn-outline-black:hover {
+  border-color: #000 !important;
+  color: #000;
+  background-color: rgb(228, 228, 228);
+}
+
+.main-header {
+  padding: 0px 2.7rem;
+}
+.main-header:hover {
+  background-color: white;
+}
+.main-header li .nav-link {
+  font-weight: 550;
+  font-size: 14px;
+}
+.main-header li .nav-link:hover {
+  color: #007c89 !important;
+  text-decoration: underline;
+}
+.main-header .contact {
+  font-size: 13px;
+}
+.icon {
+  height: 20px;
+}
+
+.bg-yellow {
+  background-color: #ffe01b;
+}
+
+.hero .container {
+  width: 74% !important;
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  font-weight: 500;
+}
+.hero p {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+.hero .btn {
+  padding: 1.2rem 2.5rem;
+}
